@@ -3,7 +3,8 @@ package com.javaex.ex04;
 import java.util.Scanner;
 
 public class Ex12 {
-
+	//ex01~04패키지가 날라가서 git에서 받아서 처리했습니다.
+	//ex05~06만 보시면 됩니다.
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
